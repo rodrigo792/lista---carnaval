@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\algoritmo8.8\bin\Debug\net8.0\algoritmo8.8.exe
+C:\Users\User\source\repos\algoritmo8.8\bin\Debug\net8.0\algoritmo8.8.deps.json
+C:\Users\User\source\repos\algoritmo8.8\bin\Debug\net8.0\algoritmo8.8.runtimeconfig.json
+C:\Users\User\source\repos\algoritmo8.8\bin\Debug\net8.0\algoritmo8.8.dll
+C:\Users\User\source\repos\algoritmo8.8\bin\Debug\net8.0\algoritmo8.8.pdb
+C:\Users\User\source\repos\algoritmo8.8\obj\Debug\net8.0\algoritmo8.8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\algoritmo8.8\obj\Debug\net8.0\algoritmo8.8.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\algoritmo8.8\obj\Debug\net8.0\algoritmo8.8.AssemblyInfo.cs
+C:\Users\User\source\repos\algoritmo8.8\obj\Debug\net8.0\algoritmo8.8.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\algoritmo8.8\obj\Debug\net8.0\algoritmo8.8.dll
+C:\Users\User\source\repos\algoritmo8.8\obj\Debug\net8.0\refint\algoritmo8.8.dll
+C:\Users\User\source\repos\algoritmo8.8\obj\Debug\net8.0\algoritmo8.8.pdb
+C:\Users\User\source\repos\algoritmo8.8\obj\Debug\net8.0\algoritmo8.8.genruntimeconfig.cache
+C:\Users\User\source\repos\algoritmo8.8\obj\Debug\net8.0\ref\algoritmo8.8.dll
